@@ -64,6 +64,5 @@ THEN I should have proper build scripts for a webpack application
 
 # Link to deployed app
 
-# Screenshot
+![screenshot](/Assets/screenshot1.png)
 
-![screenshot](./Assets/screenshot1.png)
