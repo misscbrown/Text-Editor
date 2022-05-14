@@ -4,17 +4,18 @@ A Progressive Web Application that allows a user to save notes / texts offline
 
 # Inspiration
 
-A project that allows a user to save text notes online. Provides experience of working with Progressive Web Apps. 
+A project that allows a user to save text notes online. Provides experience of working with Progressive Web Apps.
 
 # Further Development
 
-The editor could be configured for specific industries, with some pre populated headings as well as a blank template. Allowing the user to organise text files and use while on the go. 
+The editor could be configured for specific industries, with some pre populated headings as well as a blank template. Allowing the user to organise text files and use while on the go.
 
 # Challenges
 
-Getting the server to run and display the app. Also very challenging trying to deploy the product to Heroku. 
+Getting the server to run and display the app. Also very challenging trying to deploy the product to Heroku.
 
 # Usage instructions
+
 Run npm i in the terminal, to install the dependencies, then npm run start. Go over to the localhost browser and click install, to install the app and use offline.
 
 # Technologies
@@ -64,5 +65,5 @@ THEN I should have proper build scripts for a webpack application
 
 # Link to deployed app
 
-![screenshot](/Assets/screenshot1.png)
-
+![screenshot](./assets/screenshot1.png)
+```
