@@ -8,7 +8,7 @@ A project that allows a user to save text notes online. Provides experience of w
 
 # Further Development
 
-The editor could be configured for specific industries, with some pre populated headings as well as a blank template. Allowing the user to organise text files and use while on the go.
+The editor could be configured for specific industries, with some pre populated headings as well as a blank template. Allowing the user to organise text files and use while on the go. It's also a little slow loading and giving the prompt to install. 
 
 # Challenges
 
@@ -65,5 +65,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 # Link to deployed app
+
+https://code-editor-offline-carla.herokuapp.com/
 
 ![screenshot](assets/screenshot1.png)
